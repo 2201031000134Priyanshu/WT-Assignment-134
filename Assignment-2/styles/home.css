@@ -1,0 +1,1187 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.1rem;
+}.home-GMD {
+  width: 100%;
+  height: 463.5rem;
+}
+.home-GMD .home-Hn7 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u {
+  width: 158.5rem;
+  height: 103.8rem;
+  position: absolute;
+  left: -1.7rem;
+  top: 0;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .rectangle-62-TTd {
+  width: 151.1rem;
+  height: 8rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .rectangle-57-jvw {
+  width: 151rem;
+  height: 96.1rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 7.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-98-Tc3 {
+  box-sizing: border-box;
+  padding: 0.48rem 0.77rem 0.572rem 1.637rem;
+  width: 36.1rem;
+  height: 4.696rem;
+  position: absolute;
+  left: 109.7rem;
+  top: 16.3rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 10rem;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-98-Tc3 .search-for-apartments-or-houses-to-stay-iH5 {
+  margin: 0rem 3.739rem 0.018rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-98-Tc3 .frame-35-ZoV {
+  width: 3.7544rem;
+  height: 3.6448rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-115-2SB {
+  width: 59.5074rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 23.7rem;
+  top: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-115-2SB .auto-group-inz3-MDZ {
+  box-sizing: border-box;
+  padding-right: 3.1681rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-115-2SB .auto-group-inz3-MDZ .home-tDV {
+  margin-right: 3.9107rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-115-2SB .auto-group-inz3-MDZ .nav-item-vpP {
+  margin: 0rem 3.64rem 0.5rem 0rem;
+  width: 14.4674rem;
+  cursor: pointer;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: rgba(0, 67, 70, 0.8500000238);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-115-2SB .auto-group-inz3-MDZ .nav-item-odH {
+  margin-bottom: 0.5rem;
+  width: 16.0142rem;
+  cursor: pointer;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: rgba(0, 67, 70, 0.8500000238);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-115-2SB .auto-group-pgw1-tud {
+  width: 10.2074rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-115-2SB .auto-group-pgw1-tud .nav-item-qps {
+  width: 9.7359rem;
+  height: 4.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0.4714rem;
+  top: 0;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-115-2SB .auto-group-pgw1-tud .nav-item-As9 {
+  width: 8.553rem;
+  height: 3.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: rgba(0, 67, 70, 0.8500000238);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .we-help-people-find-their-dream-house-TbM {
+  width: 46.5rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 54.6rem;
+  top: 11.85rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #d3e0dc;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-99-wFd {
+  width: 19.8881rem;
+  height: 3.8789rem;
+  position: absolute;
+  left: 126.1476rem;
+  top: 2.1467rem;
+  display: flex;
+  align-items: flex-start;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-99-wFd .log-in-eQw {
+  margin-right: 0.7787rem;
+  cursor: pointer;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-99-wFd .line-1-YFR {
+  margin: 0.049rem 1.609rem 0rem 0rem;
+  width: 0;
+  height: 3.3595rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .group-99-wFd .signup-3xs {
+  margin-top: 0.1789rem;
+  cursor: pointer;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-vke3-C1u .whatsapp-image-2024-02-29-at-0306-1-AGo {
+  width: 23rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD {
+  width: 170.3rem;
+  height: 222.6rem;
+  position: absolute;
+  left: -4.7rem;
+  top: 121.6rem;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq {
+  width: 149.1rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-m9rx-879 {
+  margin: 0rem 0.5rem 18.1rem 0rem;
+  width: calc(100% - 0.5rem);
+  height: 73.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-m9rx-879 .auto-group-efzy-Sdd {
+  margin-right: 1.8rem;
+  width: 89.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-m9rx-879 .auto-group-efzy-Sdd .rectangle-59-ZTM {
+  width: 82rem;
+  height: 73.5rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 0;
+  background-color: #e7d8c7;
+  border-radius: 0 2rem 2rem 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-m9rx-879 .auto-group-efzy-Sdd .pixasquare-4ojhpgkps68-unsplash-1-U4X {
+  width: 89.1rem;
+  height: 73.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-m9rx-879 .auto-group-itbq-BDq {
+  margin: 2.7rem 0rem 3.7rem 0rem;
+  width: 57.7rem;
+  height: calc(100% - 6.4rem);
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-m9rx-879 .auto-group-itbq-BDq .group-47-tP9 {
+  margin-bottom: 4.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-m9rx-879 .auto-group-itbq-BDq .group-47-tP9 .rent-out-your-favourite-property-319 {
+  margin-bottom: 5.9rem;
+  max-width: 57.7rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: 0.0192rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-m9rx-879 .auto-group-itbq-BDq .group-47-tP9 .we-seek-out-properties-that-can-produce-a-regular-predictable-return-on-investment-as-well-as-the-potential-for-capital-appreciation-we-also-take-the-time-to-ensure-that-any-properties-we-offer-are-high-quality-safe-and-secure-investments-6k7 {
+  max-width: 50.9rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.35;
+  letter-spacing: 0.015rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-m9rx-879 .auto-group-itbq-BDq .explore-qbD {
+  margin-left: 2rem;
+  width: 26.8rem;
+  height: 7.5rem;
+  cursor: pointer;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-m9rx-879 .auto-group-itbq-BDq .explore-qbD .explore-Nr3 {
+  width: 100%;
+  height: 100%;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.0125rem;
+  color: #878987;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  border-radius: 10rem;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV {
+  width: 137.5rem;
+  height: 131rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .over-a-decade-were-still-exist-NjZ {
+  width: 94rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 21.7171rem;
+  top: 79.6rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: 0.0192rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .item-10-E15 {
+  width: 9.1rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 101.7rem;
+  font-size: 5.5rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #878987;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .years-experience-XF5 {
+  width: 11.6rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 17.4rem;
+  top: 102.9rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #878987;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-57-2r3 {
+  width: 26.8745rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 36.6097rem;
+  top: 101.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-57-2r3 .item-350-xjh {
+  margin-right: 2.7745rem;
+  font-size: 5.5rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #878987;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-57-2r3 .property-sold-ttF {
+  max-width: 10.3rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #878987;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-58-dL3 {
+  width: 28.8028rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 72.3853rem;
+  top: 101.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-58-dL3 .k-Aas {
+  margin-right: 2.5028rem;
+  font-size: 5.5rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #878987;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-58-dL3 .loyal-customers-6jR {
+  max-width: 12.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #878987;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-59-SHV {
+  width: 23.6268rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 107.8892rem;
+  top: 101.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-59-SHV .item-21-mqZ {
+  margin-right: 2.2268rem;
+  font-size: 5.5rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #878987;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-59-SHV .certified-and-awarded-7Pd {
+  max-width: 16.2rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #878987;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .what-we-offer-to-our-customers-ePZ {
+  width: 103.1rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 17.2rem;
+  top: 122.6rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: 0.0192rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-117-8Zd {
+  width: 137.5rem;
+  height: 64.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-117-8Zd .group-88-fJf {
+  margin: 0rem 33.25rem 7rem 31.45rem;
+  width: calc(100% - 64.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-117-8Zd .group-88-fJf .featured-properties-z63 {
+  margin: 0rem 0.1rem 4.8rem 0rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: 0.0192rem;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-117-8Zd .group-88-fJf .the-well-furnished-home-and-apartments-are-available-gDm {
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-117-8Zd .group-102-9t3 {
+  width: 100%;
+  display: flex;
+  column-gap: 4.1282rem;
+  align-items: center;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-117-8Zd .group-102-9t3 .minh-pham-otxadkuh3-i-unsplash-1-h8s {
+  width: 44.5367rem;
+  height: 41.1rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-117-8Zd .group-102-9t3 .spacejoy-gqqyh0ynqlk-unsplash-1-QZ5 {
+  width: 42.3932rem;
+  height: 41.1rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-z9y1-sBD .group-114-zFq .auto-group-kufq-3BV .group-117-8Zd .group-102-9t3 .adam-winger-38llq3hto3a-unsplash-1-vnK {
+  width: 42.3138rem;
+  height: 41.1rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .group-109-RDH {
+  width: 144.7rem;
+  height: 52.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 353.7rem;
+  display: flex;
+  align-items: center;
+}
+.home-GMD .home-Hn7 .group-109-RDH .cards-Z4b {
+  width: 45.603rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .group-109-RDH .cards-Z4b .rectangle-56-6aK {
+  width: 45rem;
+  height: 46.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.5rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.5699999928);
+  box-sizing: border-box;
+  background-color: rgba(113, 174, 193, 0.4799999893);
+  border-radius: 1.5rem;
+}
+.home-GMD .home-Hn7 .group-109-RDH .cards-Z4b .rent-buy-zQo {
+  width: 19.5rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 19.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: 0.0108rem;
+  color: #878987;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-GMD .home-Hn7 .group-109-RDH .cards-Z4b .we-buy-rent-your-home-or-we-find-your-desired-home-to-invest-or-buy-h4K {
+  width: 32.1rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 6.45rem;
+  top: 27.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3200000127;
+  letter-spacing: 0.0072rem;
+  color: #353a40;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-GMD .home-Hn7 .group-109-RDH .cards-Z4b .rent-ZsD {
+  box-sizing: border-box;
+  padding: 3.8rem 3.7rem 3.7rem 3.8rem;
+  width: 15.5rem;
+  height: 15.5rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 0;
+  background-color: #e8e8e8;
+  border-radius: 7.75rem;
+}
+.home-GMD .home-Hn7 .group-109-RDH .cards-Z4b .rent-ZsD .group-51-ssu {
+  width: 8rem;
+  height: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB {
+  box-sizing: border-box;
+  padding-left: 4.297rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB .cards-guarantee-KV1 {
+  margin-right: 4.8rem;
+  width: 45rem;
+  height: 51.9rem;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB .cards-guarantee-KV1 .rectangle-56-FNf {
+  width: 45rem;
+  height: 46.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.5rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.5699999928);
+  box-sizing: border-box;
+  background-color: #bbd8e1;
+  border-radius: 1.5rem;
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB .cards-guarantee-KV1 .guarantee-mM1 {
+  width: 29.5rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 19.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: 0.0108rem;
+  color: #878987;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB .cards-guarantee-KV1 .we-buy-rent-your-home-or-we-find-your-desired-home-to-invest-or-buy-rtF {
+  width: 32.2rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 27.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3300000827;
+  letter-spacing: 0.0072rem;
+  color: #353a40;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB .cards-guarantee-KV1 .rent-L2j {
+  width: 15.5rem;
+  height: 15.5rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB .cards-guarantee-KV1 .group-FQb {
+  width: 7.2858rem;
+  height: 7.9995rem;
+  position: absolute;
+  left: 16.8483rem;
+  top: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB .cards-sale-Y8o {
+  width: 45rem;
+  height: 51.9rem;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB .cards-sale-Y8o .rectangle-56-G4o {
+  width: 45rem;
+  height: 46.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.5rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.5699999928);
+  box-sizing: border-box;
+  background-color: #bbd8e1;
+  border-radius: 1.5rem;
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB .cards-sale-Y8o .exclusive-sale-NNj {
+  width: 24.9rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 10rem;
+  top: 19.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: 0.0108rem;
+  color: #878987;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB .cards-sale-Y8o .we-buy-rent-your-home-or-we-find-your-desired-home-to-invest-or-buy-UAs {
+  width: 31.9rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 6.55rem;
+  top: 27.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.0072rem;
+  color: #353a40;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB .cards-sale-Y8o .rent-ku5 {
+  width: 15.5rem;
+  height: 15.5rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-GMD .home-Hn7 .group-109-RDH .auto-group-pfct-nEB .cards-sale-Y8o .group-52-JQo {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-GMD .home-Hn7 .log-in-variant2-RVR {
+  width: 9.3rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 121.8rem;
+  top: 4.9rem;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 {
+  width: 151.1rem;
+  height: 46.2rem;
+  position: absolute;
+  left: 0;
+  top: 417.3rem;
+  background-color: #f6f6f6;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm {
+  width: 142.0027rem;
+  height: 40.9482rem;
+  position: absolute;
+  left: 5.0973rem;
+  top: 3.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR {
+  margin: 0rem 1.663rem 3.325rem 45.263rem;
+  width: calc(100% - 46.9262rem);
+  height: 32.395rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .group-43-g3y {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .group-43-g3y .quick-links-RGT {
+  margin-bottom: 3.0532rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #0fb3af;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .group-43-g3y .review-a-property-wkb {
+  margin: 0rem 0rem 2.408rem 1.109rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .group-43-g3y .articles-rsZ {
+  margin: 0rem 0rem 2.408rem 1.109rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .group-43-g3y .about-us-Pcb {
+  margin: 0rem 0rem 2.408rem 1.109rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .group-43-g3y .contact-us-Km9 {
+  margin: 0rem 0rem 2.408rem 1.109rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .group-43-g3y .terms-conditions-e2j {
+  margin: 0rem 0rem 2.408rem 1.109rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .group-43-g3y .privacy-policy-7h1 {
+  margin-left: 1.1094rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh {
+  box-sizing: border-box;
+  padding-left: 20.0226rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB {
+  margin-right: 18.6994rem;
+  width: 24.3452rem;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .auto-group-dgas-wvw {
+  box-sizing: border-box;
+  padding: 0rem 0.073rem 3.437rem 0.073rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .auto-group-dgas-wvw .auto-group-ym2o-tLP {
+  margin-bottom: 3.0532rem;
+  width: 15.4rem;
+  height: 2.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .auto-group-dgas-wvw .auto-group-ym2o-tLP .stay-in-touch-2hV {
+  width: 15.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0rem;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #0fb3af;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .auto-group-dgas-wvw .auto-group-ym2o-tLP .stay-in-touch-w3m {
+  width: 15.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #0fb3af;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .auto-group-dgas-wvw .group-39-rRd {
+  margin-left: 0rem;
+  width: 16.8719rem;
+  height: 2.6306rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .auto-group-dgas-wvw .group-39-rRd .item-012-9638595661-CEb {
+  width: 13.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.7719rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .auto-group-dgas-wvw .group-39-rRd .group-24-fP5 {
+  width: 2.2188rem;
+  height: 2.2872rem;
+  position: absolute;
+  left: 0;
+  top: 0.3435rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .auto-group-dgas-wvw .group-39-rRd .group-39-akw {
+  width: 16.872rem;
+  height: 2.6306rem;
+  position: absolute;
+  left: -0rem;
+  top: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .auto-group-dgas-wvw .group-39-rRd .group-39-akw .group-24-KTd {
+  margin-right: 1.5532rem;
+  width: 2.2188rem;
+  height: 2.2872rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .auto-group-dgas-wvw .group-39-rRd .group-39-akw .item-012-9638595661-4RD {
+  margin-bottom: 0.2306rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .group-40-Az3 {
+  margin-bottom: 3.6677rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .group-40-Az3 .auto-group-cgjb-uwd {
+  margin: 0rem 1.521rem 0rem 0rem;
+  width: 2.3243rem;
+  height: 1.8271rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .group-40-Az3 .infoturakhiahomescom-qaP {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .group-41-NKR {
+  margin-left: 0.2951rem;
+  width: 21.7501rem;
+  height: 4.7rem;
+  position: relative;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .group-41-NKR .archibald-st-toowoomba-qld-4350-gb1 {
+  width: 18.2rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 3.5501rem;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .group-41-NKR .group-LfZ {
+  width: 1.7971rem;
+  height: 2.5187rem;
+  position: absolute;
+  left: 0;
+  top: 0.1145rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .group-41-NKR .group-41-fC3 {
+  width: 21.7501rem;
+  height: 4.7rem;
+  position: absolute;
+  left: -0rem;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .group-41-NKR .group-41-fC3 .group-zk7 {
+  margin: 0.114rem 1.753rem 0rem 0rem;
+  width: 1.7971rem;
+  height: 2.5187rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-44-bcB .group-41-NKR .group-41-fC3 .archibald-st-toowoomba-qld-4350-7pj {
+  max-width: 18.2rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-96-dYB {
+  width: 15.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-96-dYB .connect-with-yc3 {
+  margin-bottom: 3.0532rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #0fb3af;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-96-dYB .group-95-6Rm {
+  margin: 0rem 1.664rem 0rem 1.109rem;
+  width: calc(100% - 2.7734rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-96-dYB .group-95-6Rm .auto-group-6vrq-pMm {
+  margin: 0rem 0.5rem 3.435rem 0.777rem;
+  width: calc(100% - 1.2766rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-96-dYB .group-95-6Rm .auto-group-6vrq-pMm .group-LL7 {
+  margin-right: 2.4407rem;
+  width: 1.1094rem;
+  height: 2.2897rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-96-dYB .group-95-6Rm .auto-group-6vrq-pMm .facebook-3VR {
+  margin-bottom: 0.2332rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-96-dYB .group-95-6Rm .auto-group-r2wz-Mm1 {
+  margin: 0rem 2.5rem 3.664rem 0rem;
+  width: calc(100% - 2.5rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-96-dYB .group-95-6Rm .auto-group-r2wz-Mm1 .group-6Th {
+  margin-right: 1.5958rem;
+  width: 2.7308rem;
+  height: 2.2897rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-96-dYB .group-95-6Rm .auto-group-r2wz-Mm1 .twitter-qw5 {
+  margin-bottom: 0.0042rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-96-dYB .group-95-6Rm .auto-group-1ay5-Nw1 {
+  margin-left: 0.2219rem;
+  width: calc(100% - 0.2219rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-96-dYB .group-95-6Rm .auto-group-1ay5-Nw1 .group-KbM {
+  margin-right: 1.886rem;
+  width: 2.2188rem;
+  height: 2.2897rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .auto-group-nkbu-AbR .auto-group-jswr-rPh .group-96-dYB .group-95-6Rm .auto-group-1ay5-Nw1 .instagram-Fju {
+  margin-bottom: 0.2332rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .rectangle-72-yfu {
+  margin-bottom: 3.1202rem;
+  width: 100%;
+  height: 0.1076rem;
+  background-color: #c4c4c4;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .group-118-Ehm .turakhia-homes-2020-all-rights-reserved-XSX {
+  margin-right: 1.6393rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #3c3c3b;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-GMD .home-Hn7 .auto-group-kshd-YK9 .whatsapp-image-2024-02-29-at-0259-2-3Qs {
+  width: 34.4rem;
+  height: 35rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}

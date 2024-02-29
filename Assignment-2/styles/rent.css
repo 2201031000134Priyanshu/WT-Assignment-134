@@ -1,0 +1,179 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.rent-bd9 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(113, 174, 193, 0.8299999833);
+}
+.rent-bd9 .auto-group-otyz-vQX {
+  box-sizing: border-box;
+  padding: 1.9rem 23.2rem;
+  width: 100%;
+  height: 8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-otyz-vQX .frame-63-Csq {
+  width: 70.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.rent-bd9 .auto-group-otyz-vQX .frame-63-Csq .auto-group-gxfr-vJ3 {
+  box-sizing: border-box;
+  padding: 0.3rem 3.8rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-otyz-vQX .frame-63-Csq .auto-group-gxfr-vJ3 .nav-item-SXH {
+  width: 7.7rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: rgba(0, 67, 70, 0.8500000238);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-otyz-vQX .frame-63-Csq .auto-group-gxfr-vJ3 .nav-item-XYj {
+  width: 13.9rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: rgba(0, 67, 70, 0.8500000238);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-otyz-vQX .frame-63-Csq .auto-group-gxfr-vJ3 .home-qZR {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-otyz-vQX .frame-63-Csq .nav-item-MGs {
+  margin-right: 3.5rem;
+  width: 9.3rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-otyz-vQX .frame-63-Csq .nav-item-6VM {
+  width: 8.8rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-xlab-qhq {
+  box-sizing: border-box;
+  padding: 12.7rem 5.1rem 9.8rem 5.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-xlab-qhq .group-103-Ys9 {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-xlab-qhq .group-103-Ys9 .minh-pham-otxadkuh3-i-unsplash-1-UVu {
+  margin-right: 3.9961rem;
+  width: 43.1115rem;
+  height: 45rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-xlab-qhq .group-103-Ys9 .spacejoy-gqqyh0ynqlk-unsplash-1-mV1 {
+  margin-right: 3.9961rem;
+  width: 41.0366rem;
+  height: 45rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-xlab-qhq .group-103-Ys9 .adam-winger-38llq3hto3a-unsplash-1-Ggf {
+  width: 40.9598rem;
+  height: 45rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-xlab-qhq .auto-group-pczm-nf1 {
+  margin-right: 1.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-xlab-qhq .auto-group-pczm-nf1 .bhk-house-for-rent-in-vastral-25000-month-2000-sqft-2-month-deposite-carpet-area-new-25-bhk-tenament-is-available-for-rent-in-vastralahmedabad-XsV {
+  margin-right: 6.6rem;
+  max-width: 40.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-xlab-qhq .auto-group-pczm-nf1 .bhk-bunglow-for-rent-in-vastral-55000-month-4000-sqft-2-month-deposite-carpet-area-new-6-bhk-luxurious-bunglow-is-available-for-rent-in-vastral-ahmedabad-NdD {
+  margin-right: 6.1rem;
+  max-width: 39.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.rent-bd9 .auto-group-xlab-qhq .auto-group-pczm-nf1 .bhk-house-for-rent-in-vastral-40000-month-3500-sqft-2-month-deposite-carpet-area-new-4-bhk-bunlow-is-available-for-rent-in-vastralahmedabad-oiX {
+  max-width: 39.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}

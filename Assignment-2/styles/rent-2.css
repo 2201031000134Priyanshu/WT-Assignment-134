@@ -1,0 +1,212 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.rent-2-gx7 {
+  box-sizing: border-box;
+  padding-bottom: 27.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(113, 174, 193, 0.8299999833);
+}
+.rent-2-gx7 .auto-group-oi47-pHd {
+  margin-bottom: 13.8rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-oi47-pHd .auto-group-aqur-AMV {
+  margin-right: 34.2rem;
+  box-sizing: border-box;
+  padding: 0.7rem 49.4rem 0.6rem 0rem;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-oi47-pHd .auto-group-aqur-AMV .whatsapp-image-2024-02-29-at-0306-3-5DZ {
+  width: 23rem;
+  height: 6.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-oi47-pHd .auto-group-aqur-AMV .frame-64-Pzw {
+  margin: 1.2rem 0rem 1.3rem 0rem;
+  height: calc(100% - 2.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-oi47-pHd .auto-group-aqur-AMV .frame-64-Pzw .auto-group-m8nj-7vw {
+  box-sizing: border-box;
+  padding: 0.3rem 3.8rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-oi47-pHd .auto-group-aqur-AMV .frame-64-Pzw .auto-group-m8nj-7vw .nav-item-EVm {
+  width: 7.7rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: rgba(0, 67, 70, 0.8500000238);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-oi47-pHd .auto-group-aqur-AMV .frame-64-Pzw .auto-group-m8nj-7vw .nav-item-Xjm {
+  width: 13.9rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: rgba(0, 67, 70, 0.8500000238);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-oi47-pHd .auto-group-aqur-AMV .frame-64-Pzw .auto-group-m8nj-7vw .nav-item-dH1 {
+  width: 15.9rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-oi47-pHd .auto-group-aqur-AMV .frame-64-Pzw .nav-item-LhD {
+  margin-right: 3.5rem;
+  width: 9.3rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-oi47-pHd .auto-group-aqur-AMV .frame-64-Pzw .nav-item-V4K {
+  width: 8.8rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-oi47-pHd .group-107-Rif {
+  margin-top: 2.2rem;
+  width: 6.5574rem;
+  height: 8.7rem;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-oi47-pHd .group-107-Rif .group-105-kkw {
+  box-sizing: border-box;
+  padding: 1.582rem 1.608rem 1.624rem 1.565rem;
+  width: 6.5574rem;
+  height: 6.6262rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-61.png');
+}
+.rent-2-gx7 .auto-group-oi47-pHd .group-107-Rif .group-105-kkw .vector-s4s {
+  width: 3.3845rem;
+  height: 3.42rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.rent-2-gx7 .auto-group-oi47-pHd .group-107-Rif .home-oDR {
+  width: 4.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 6.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.rent-2-gx7 .auto-group-4p95-6CX {
+  margin: 0rem 7.4rem 0rem 2.9rem;
+  width: calc(100% - 10.3rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-4p95-6CX .spacejoy-gqqyh0ynqlk-unsplash-1-cRm {
+  margin-right: 5.3333rem;
+  width: 79.6667rem;
+  height: 50rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-4p95-6CX .auto-group-uzct-Kqy {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-4p95-6CX .auto-group-uzct-Kqy .bhk-bunglow-for-rent-in-vastral-55000-month-4000-sqft-2-month-deposite-carpet-area-new-6-bhk-luxurious-bunglow-is-available-for-rent-in-vastralahmedabad-54T {
+  margin-bottom: 13.6rem;
+  max-width: 48.7rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.rent-2-gx7 .auto-group-4p95-6CX .auto-group-uzct-Kqy .group-113-KUb {
+  width: 28.0537rem;
+  height: 6.4911rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
